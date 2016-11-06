@@ -62,6 +62,8 @@
     <Content Include="webpack.config.js" />
     <None Include="chartingTest.html" />
     <Compile Include="ChartingTest.fs" />
+    <None Include="README.md" />
+    <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Fable.Core">
