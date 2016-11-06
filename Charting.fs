@@ -1,4 +1,4 @@
-﻿namespace Pricer.Fabled
+﻿namespace FabledCharting
 
 open System
 open Fable.Core
